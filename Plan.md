@@ -1,16 +1,5 @@
 ## Paperadar任务安排与完成情况
-```mermaid
-gantt
-dateFormat  YYYY-MM-DD
-title Paperader开发任务甘特图
-学习Git的基本使用及多人协同: 2021-03-01,2021-03-14
-学习Nodejs、React: des1, 2021-03-06, 18d
-熟悉原有项目代码: 2021-03-11, 19d
-优化原有功能、逻辑与UI: des2, after des1, 38d
-增添新功能: 2021-04-11,40d
-UI、UX设计: 2021-03-11, 71d
-打包成VS code插件: after des2,2021-05-31
-```
+![Gantt](Gantt.png)
 
 * 第0周
     > + 预期目标规划
