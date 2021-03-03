@@ -1,5 +1,5 @@
 ## Paperadar任务安排与完成情况
-![Gantt](.\images\Gantt.png)
+![Gantt](./images/Gantt.png)
 
 * 第0周
     > + 预期目标规划
